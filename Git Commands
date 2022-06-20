@@ -11,3 +11,5 @@
 10 : git add .   //if you have multiple file and yow want to commit.
 11 : git commit -m "initial commit"   //for commit changes
 12 : git log   //for see how many commit occur 
+13 : git remote -v  //what thing we push.
+14 : git remote add origin "given on main file of github repository".git
