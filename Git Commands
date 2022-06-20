@@ -1,0 +1,13 @@
+1 : git --version   //for check git install or not..
+2 : git config --global user.name "Your Name"  //for set Your name Globally on Git
+3 : git config --global user.email "Your Email"  // for set Your email globally on git
+4 : git config --global user.name   //for check User name
+5 : git config --global user.email  //for check User email
+6 : git config --global --edit   //another way to set User name and email  "press i from keyboard it will open for Insert mode Now 
+                                    //You can change anything after all changes press 'esc' and type ':wq" press enter..
+7 : git init  //initialize current working folder for git repositeries
+8 : git status  //generally show's status of current working folder.
+9 : git add <file_name> //if you want to commit only single file
+10 : git add .   //if you have multiple file and yow want to commit.
+11 : git commit -m "initial commit"   //for commit changes
+12 : git log   //for see how many commit occur 
